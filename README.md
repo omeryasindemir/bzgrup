@@ -1,1 +1,1 @@
-# bzgrup
+# BZ-Grup
