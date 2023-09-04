@@ -1,4 +1,4 @@
-<h1>E-Commerce PAGE</h1>
+<h1>BZ GRUP PAGE</h1>
 
 Full responsive website made for e-commerce.
 
